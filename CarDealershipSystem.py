@@ -1,10 +1,9 @@
 ##################################################################
 # Script Name: BV_Assignment8.py
-# Title: Assignment 8.
-# Description: Code file for SCP220 Week 8 Assignment.
-# IDE of your choice: VScode.
+# Title: Basic Car Dealership System
+# Description: 
+# Built Using (IDE): VScode
 # Author: Bernie Valderrama
-# Date:  March 9th, 2024
 ##################################################################
 from os import system, name
 from time import sleep as sl
